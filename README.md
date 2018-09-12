@@ -5,7 +5,7 @@ This information should be distributed along with the Graduate fonts and any der
 Graduate is a high quality example of the classic college block style of lettering used across very campus in the USA.
 Graduate could be expanded to support other styles and scripts.
 
-Graduate single font is available from Google Fonts at http://www.google.com/webfonts/specimen/Graduate
+Graduate single font is available from Google Fonts at https://fonts.google.com/specimen/Graduate
 
 Source files are available from https://github.com/etunni/Graduate-Variable-Font
 

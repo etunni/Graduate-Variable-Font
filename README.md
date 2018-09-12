@@ -14,4 +14,7 @@ To contribute to the project, please visit https://github.com/etunni/Graduate-Va
 ### History
 
 12 Sep 2018 >> First commit (Eduardo Tunni) 
-This Variable font include the followed axes: Weight / Width / Optical Size / Grade / Slant / Contraste / Yopaque / Ytrans / Ytad
+
+This Variable font include the followed axes: 
+
+Weight / Width / Optical Size / Grade / Slant / Contraste / Yopaque / Ytrans / Ytad

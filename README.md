@@ -15,6 +15,9 @@ To contribute to the project, please visit https://github.com/etunni/Graduate-Va
 
 12 Sep 2018 >> First commit (Eduardo Tunni) 
 
-This Variable font include the followed axes: 
+This Variable font include the followed 10 axes: 
+Weight / Width / Optical Size / Grade / Slant / Contraste / Yopaque / Ytrans / Ytad / Ytlc
 
-Weight / Width / Optical Size / Grade / Slant / Contraste / Yopaque / Ytrans / Ytad
+17 Sep 2018 >> 
+
+Add YTLC axis that change the height of lowercases.

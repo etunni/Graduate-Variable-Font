@@ -13,11 +13,16 @@ To contribute to the project, please visit https://github.com/etunni/Graduate-Va
 
 ### History
 
+26 Sep 2018 >> 
+Add YTDD axis that change the distance between letter with your descender diacritic mark
+SLANT axis eliminated until solve your right variation on all axes.
+Improvement in relationship of variations on contrast/weight/width axes
+
+17 Sep 2018 >> 
+Add YTLC axis that change the height of lowercases.
+
 12 Sep 2018 >> First commit (Eduardo Tunni) 
 
 This Variable font include the followed 10 axes: 
-Weight / Width / Optical Size / Grade / Slant / Contraste / Yopaque / Ytrans / Ytad / Ytlc
+Weight / Width / Optical Size / Grade / Slant-eliminated- / Contraste / Yopaque / Ytrans / Ytad / Ytlc / Ytdd
 
-17 Sep 2018 >> 
-
-Add YTLC axis that change the height of lowercases.

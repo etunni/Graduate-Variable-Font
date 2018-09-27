@@ -13,10 +13,15 @@ To contribute to the project, please visit https://github.com/etunni/Graduate-Va
 
 ### History
 
+27 Sep 2018 >> 
+General improvements. Was solved an issue in letter "b"
+
 26 Sep 2018 >> 
 Add YTDD axis that change the distance between letter with your descender diacritic mark
-SLANT axis eliminated until solve your right variation on all axes.
-Improvement in relationship of variations on contrast/weight/width axes
+
+SLANT axis was eliminated until solve your right variation on all axes.
+
+Improvement in relationship of variations on contrast/weight/width axes.
 
 17 Sep 2018 >> 
 Add YTLC axis that change the height of lowercases.

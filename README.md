@@ -13,6 +13,9 @@ To contribute to the project, please visit https://github.com/etunni/Graduate-Va
 
 ### History
 
+11 Oct 2018
+PDF poster with the current state of the project
+
 27 Sep 2018 >> 
 General improvements. Was solved an issue in letter "b"
 

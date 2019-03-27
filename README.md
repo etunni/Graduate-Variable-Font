@@ -13,6 +13,12 @@ To contribute to the project, please visit https://github.com/etunni/Graduate-Va
 
 ### History
 
+26 Mar 2019
+This build has 12 axes today, the latest added is “Largo Serif” that mean serif length.
+
+The font was included and you can play at https://www.axis-praxis.org/specimens/graduate
+Many thanks to Laurence Penney
+
 11 Oct 2018
 PDF poster with the current state of the project
 

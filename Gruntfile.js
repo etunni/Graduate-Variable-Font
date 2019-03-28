@@ -8,8 +8,8 @@ module.exports = function(grunt) {
                     sourcemap: 'none'
                 },
                 files: {
-                    'css/style.css': 'scss/style.scss',
-                    'fonts/fonts.css': 'scss/fonts.scss'
+                    'docs/css/style.css': 'docs-sources/scss/style.scss',
+                    'docs/fonts/fonts.css': 'docs-sources/scss/fonts.scss'
                 }
             }
         },
@@ -19,18 +19,18 @@ module.exports = function(grunt) {
             },
             dist: {
                 files: {
-                    'css/style.css': 'css/style.css',
-                    'fonts/fonts.css': 'fonts/fonts.css',
+                    'docs/css/style.css': 'docs/css/style.css',
+                    'docs/fonts/fonts.css': 'docs/fonts/fonts.css',
                 }
             }
         },
         watch: {
             css: {
-                files: 'scss/*.scss',
+                files: 'docs-sources/scss/*.scss',
                 tasks: ['sass', 'autoprefixer']
             },
             all: {
-                files: ['scss/*.scss', '*.html', 'js/*.js'],
+                files: ['docs-sources/scss/*.scss', 'docs-sources/*.html', 'docs-sources/js/*.js'],
                 options: {
                   livereload: true
                 }

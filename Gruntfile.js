@@ -34,6 +34,12 @@ module.exports = function (grunt) {
           filter: 'isFile'
         }, {
           expand: true,
+          cwd: 'docs-sources/fonts',
+          src: ['*.css'],
+          dest: 'docs/css/',
+          filter: 'isFile'
+        }, {
+          expand: true,
           cwd: 'docs-sources',
           src: ['favicon.png'],
           dest: 'docs/',

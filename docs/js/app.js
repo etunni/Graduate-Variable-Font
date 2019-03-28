@@ -1660,7 +1660,7 @@ var app = new Vue({
         html: html,
         css: css,
         js: js,
-        css_external: "https://twardoch.github.io/Graduate-Variable-Font/fonts.css;https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css",
+        css_external: "https://twardoch.github.io/Graduate-Variable-Font/fonts/fonts.css;https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css",
       }
       // return JSON.stringify(data).replace(/"/g, "&​quot;").replace(/'/g, "&apos;");
       return JSON.stringify(data);

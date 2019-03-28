@@ -53,7 +53,7 @@ module.exports = function(grunt) {
                 }, {
                     expand: true,
                     cwd: 'docs-sources',
-                    src: ['js/*'],
+                    src: ['js/*.js'],
                     dest: 'docs/',
                     filter: 'isFile'
                 }, {

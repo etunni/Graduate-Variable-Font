@@ -953,6 +953,7 @@ body {
   flex-direction: column;
   
   .section.section-font-cards {
+    visibility: hidden !important; // ADAM
     height: calc(100% - 210px);
     display: flex;
     flex-direction: column;

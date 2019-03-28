@@ -1507,7 +1507,7 @@ var app = new Vue({
     appStates: {
       drawer: {
         fontMenu: {
-          isActive: true
+          isActive: false
         },
       },
       tabs: {

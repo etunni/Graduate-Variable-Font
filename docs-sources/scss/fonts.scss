@@ -1,10 +1,6 @@
-// $assetPath : "https://fonts.typedetail.com/";
-$assetPath : "../fonts/";
-
+$assetPath: "https://twardoch.github.io/Graduate-Variable-Font/fonts/"; // $assetPath : "../fonts/";
 @font-face {
-  src: url('#{$assetPath}GRADUATE.ttf');
-  font-family:'GRADUATE';
   font-style: normal;
+  font-family: 'GRADUATE';
+  src: url("#{$assetPath}GRADUATE.ttf");
 }
-
-

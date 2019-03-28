@@ -1,0 +1,2 @@
+- The fonts are Copyright © 2012-2019 by Eduardo Tunni, licensed under the [SIL Open Font License, Version 1.1](./OFL.txt)
+- The site is derived from https://github.com/wentin/font-playground by Wenting Zhang, licensed under [Creative Commons Attribution 4.0 International](./site-sources/license.txt)

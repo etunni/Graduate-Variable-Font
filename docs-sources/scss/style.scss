@@ -724,8 +724,8 @@ body {
 }
 
 .logo-text {
-  font-family: $sans;
-  font-variation-settings: 'wght' 156;
+  font-family: "GRADUATE";
+  font-variation-settings: 'XOPQ' 100, 'XTRA' 300, 'OPSZ' 8, 'GRAD' 9, 'YTRA' 750, 'CNTR' 40, 'YOPQ' 200, 'SERF' 0, 'YTAS' 0, 'YTLC' 650, 'YTDE' 0, 'SELE' 0;
   color: $G500;
   font-size: 14px;
   text-decoration: none;
@@ -792,7 +792,7 @@ body {
 
   .menu {
     position: absolute;
-    left: 140px;
+    left: 260px;
     display: flex;
 
     & > li {
@@ -807,6 +807,10 @@ body {
           cursor: pointer;
           background-color: $G500;
           color: $G100;
+
+          & > a {
+            color: $G100;
+          }
         }
       }
 
@@ -815,6 +819,12 @@ body {
         padding: 0 15px;
         line-height: 38px;
         height: 37px;
+
+        & > a {
+          text-decoration: none;
+          font-weight: bold;
+          color: $A100;
+        }
       }
 
       & > ul {

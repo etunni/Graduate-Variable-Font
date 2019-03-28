@@ -43,27 +43,13 @@
       <a class="logo-text" href="/"><span class="accent-text">Graduate</span> Variable Font</a>
       <ul class="menu label-text">
         <li>
-          <span>File</span>
-          <ul>
-            <li @click="newFile">New</li>
-            <li @click="openFile('prompt')">Open…</li>
-            <li class="contains-sub-menu" v-if="appStates.recentFiles.length > 0">Open Recent
-              <ul>
-                <li v-for="file in appStates.recentFiles" @click="openFile(file)">{{file}}</li>
-              </ul>
-            </li>
-            <li @click="saveFileToCodepen">Save to CodePen</li>
-            <a class="offsite-link" href="https://codepen.io/tag/font_playground/" target="_blank">Online Gallery</a>
-          </ul>
-        </li>
-        <li>
           <span><a class="offsite-link" href="/fonts/GRADUATE.ttf" target="_blank">Download Font</a></span>
         </li>
         <li>
           <span>Help</span>
           <ul>
-            <a class="offsite-link" href="https://www.youtube.com/playlist?list=PLjvaEvhJuIkyVP_jPw2HGN5jjjwKZrC13" target="_blank">Tutorial Videos</a>
-            <a class="offsite-link" href="https://github.com/etunni/Graduate-Variable-Font/releases/" target="_blank">What’s New</a>
+            <a class="offsite-link" href="https://github.com/etunni/Graduate-Variable-Font/blob/master/README.md" target="_blank">What’s New</a>
+            <a class="offsite-link" href="https://github.com/etunni/Graduate-Variable-Font/archive/master.zip" target="_blank">Download Sources</a>
             <a class="offsite-link" href="https://github.com/etunni/Graduate-Variable-Font/issues/new" target="_blank">Report Issue</a>
           </ul>
         </li>

@@ -1176,7 +1176,7 @@ var app = new Vue({
                 "tag": "XOPQ",
                 "name": "x opaque",
                 "minValue": 40,
-                "defaultValue": 83,
+                "defaultValue": 200,
                 "maxValue": 200,
                 "isSelected": 1
               },
@@ -1184,7 +1184,7 @@ var app = new Vue({
                 "tag": "XTRA",
                 "name": "x transparent",
                 "minValue": 100,
-                "defaultValue": 400,
+                "defaultValue": 100,
                 "maxValue": 800,
                 "isSelected": 0
               },
@@ -1193,6 +1193,121 @@ var app = new Vue({
                 "name": "Optical Size",
                 "minValue": 8,
                 "defaultValue": 16,
+                "maxValue": 16,
+                "isSelected": 0
+              },
+              {
+                "tag": "GRAD",
+                "name": "Grade",
+                "minValue": 0,
+                "defaultValue": 6,
+                "maxValue": 20,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTRA",
+                "name": "y transparent",
+                "minValue": 750,
+                "defaultValue": 850,
+                "maxValue": 850,
+                "isSelected": 0
+              },
+              {
+                "tag": "CNTR",
+                "name": "Contrast",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 100,
+                "isSelected": 2
+              },
+              {
+                "tag": "YOPQ",
+                "name": "y opaque",
+                "minValue": 100,
+                "defaultValue": 450,
+                "maxValue": 800,
+                "isSelected": 0
+              },
+              {
+                "tag": "SERF",
+                "name": "Serif",
+                "minValue": 0,
+                "defaultValue": 30,
+                "maxValue": 30,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTAS",
+                "name": "y transparent ascender",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 50,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTLC",
+                "name": "lc y transparent",
+                "minValue": 650,
+                "defaultValue": 750,
+                "maxValue": 750,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTDE",
+                "name": "y transparent descender",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 50,
+                "isSelected": 0
+              },
+              {
+                "tag": "SELE",
+                "name": "Largo Serif",
+                "minValue": -20,
+                "defaultValue": -8,
+                "maxValue": 0,
+                "isSelected": 0
+              }
+            ],
+            "instances": []
+          },
+        }
+      },
+      {
+        "type": "area type",
+        "isSelected": false,
+        "id": "text3",
+        "properties": {
+          "width": 730,
+          "height": 80,
+          "left": 60,
+          "top": 165,
+          "text": "Graduate is a high quality example of the classic college block style of lettering used across very campus in the USA. Emanuel David Ginóbili es un ex jugador argentino de básquetbol, considerado por muchos especialistas, deportistas y entrenadores de este deporte como el mejor jugador de América Latina.",
+          "fontSize": "15",
+          "cssCodeName": "GRADUATE",
+          "isVariableFont": true,
+          "variableOptions": {
+            "axes": [{
+                "tag": "XOPQ",
+                "name": "x opaque",
+                "minValue": 40,
+                "defaultValue": 69,
+                "maxValue": 200,
+                "isSelected": 1
+              },
+              {
+                "tag": "XTRA",
+                "name": "x transparent",
+                "minValue": 100,
+                "defaultValue": 406,
+                "maxValue": 800,
+                "isSelected": 0
+              },
+              {
+                "tag": "OPSZ",
+                "name": "Optical Size",
+                "minValue": 8,
+                "defaultValue": 8,
                 "maxValue": 16,
                 "isSelected": 0
               },
@@ -1224,7 +1339,7 @@ var app = new Vue({
                 "tag": "YOPQ",
                 "name": "y opaque",
                 "minValue": 100,
-                "defaultValue": 100,
+                "defaultValue": 220,
                 "maxValue": 800,
                 "isSelected": 0
               },
@@ -1279,7 +1394,7 @@ var app = new Vue({
         "id": "text2",
         "properties": {
           "left": 10,
-          "top": 150,
+          "top": 245,
           "text": "MODERN?",
           "fontSize": "140",
           "cssCodeName": "GRADUATE",
@@ -1389,14 +1504,14 @@ var app = new Vue({
       {
         "type": "area type",
         "isSelected": false,
-        "id": "text3",
+        "id": "text4",
         "properties": {
-          "width": 750,
-          "height": 150,
+          "width": 790,
+          "height": 50,
           "left": 25,
-          "top": 300,
-          "text": "Graduate is a high quality example of the classic college block style of lettering used across very campus in the USA.",
-          "fontSize": "27",
+          "top": 400,
+          "text": "Designed by Eduardo Tunni with support of Google Fonts",
+          "fontSize": "30",
           "cssCodeName": "GRADUATE",
           "isVariableFont": true,
           "variableOptions": {
@@ -1412,7 +1527,120 @@ var app = new Vue({
                 "tag": "XTRA",
                 "name": "x transparent",
                 "minValue": 100,
-                "defaultValue": 400,
+                "defaultValue": 100,
+                "maxValue": 800,
+                "isSelected": 0
+              },
+              {
+                "tag": "OPSZ",
+                "name": "Optical Size",
+                "minValue": 8,
+                "defaultValue": 16,
+                "maxValue": 16,
+                "isSelected": 0
+              },
+              {
+                "tag": "GRAD",
+                "name": "Grade",
+                "minValue": 0,
+                "defaultValue": 5,
+                "maxValue": 20,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTRA",
+                "name": "y transparent",
+                "minValue": 750,
+                "defaultValue": 750,
+                "maxValue": 850,
+                "isSelected": 0
+              },
+              {
+                "tag": "CNTR",
+                "name": "Contrast",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 100,
+                "isSelected": 2
+              },
+              {
+                "tag": "YOPQ",
+                "name": "y opaque",
+                "minValue": 100,
+                "defaultValue": 100,
+                "maxValue": 800,
+                "isSelected": 0
+              },
+              {
+                "tag": "SERF",
+                "name": "Serif",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 30,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTAS",
+                "name": "y transparent ascender",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 50,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTLC",
+                "name": "lc y transparent",
+                "minValue": 650,
+                "defaultValue": 650,
+                "maxValue": 750,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTDE",
+                "name": "y transparent descender",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 50,
+                "isSelected": 0
+              },
+              {
+                "tag": "SELE",
+                "name": "Largo Serif",
+                "minValue": -20,
+                "defaultValue": 0,
+                "maxValue": 0,
+                "isSelected": 0
+              }
+            ],
+            "instances": []
+          },
+        }
+      },
+      {
+        "type": "point type",
+        "isSelected": false,
+        "id": "text5",
+        "properties": {
+          "left": 3,
+          "top": 440,
+          "cssCodeName": "GRADUATE",
+          "isVariableFont": true,
+          "text": "SPURS",
+          "fontSize": 233,
+          "variableOptions": {
+            "axes": [{
+                "tag": "XOPQ",
+                "name": "x opaque",
+                "minValue": 40,
+                "defaultValue": 40,
+                "maxValue": 200,
+                "isSelected": 1
+              },
+              {
+                "tag": "XTRA",
+                "name": "x transparent",
+                "minValue": 100,
+                "defaultValue": 525,
                 "maxValue": 800,
                 "isSelected": 0
               },
@@ -1452,7 +1680,7 @@ var app = new Vue({
                 "tag": "YOPQ",
                 "name": "y opaque",
                 "minValue": 100,
-                "defaultValue": 100,
+                "defaultValue": 800,
                 "maxValue": 800,
                 "isSelected": 0
               },
@@ -1461,6 +1689,121 @@ var app = new Vue({
                 "name": "Serif",
                 "minValue": 0,
                 "defaultValue": 0,
+                "maxValue": 30,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTAS",
+                "name": "y transparent ascender",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 50,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTLC",
+                "name": "lc y transparent",
+                "minValue": 650,
+                "defaultValue": 650,
+                "maxValue": 750,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTDE",
+                "name": "y transparent descender",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 50,
+                "isSelected": 0
+              },
+              {
+                "tag": "SELE",
+                "name": "Largo Serif",
+                "minValue": -20,
+                "defaultValue": 0,
+                "maxValue": 0,
+                "isSelected": 0
+              }
+            ],
+            "instances": []
+          },
+        }
+      },
+      {
+        "type": "area type",
+        "isSelected": false,
+        "id": "text6",
+        "properties": {
+          "width": 790,
+          "height": 50,
+          "left": 25,
+          "top": 670,
+          "text": "Made in FontLab VI",
+          "fontSize": "52",
+          "cssCodeName": "GRADUATE",
+          "isVariableFont": true,
+          "variableOptions": {
+            "axes": [{
+                "tag": "XOPQ",
+                "name": "x opaque",
+                "minValue": 40,
+                "defaultValue": 200,
+                "maxValue": 200,
+                "isSelected": 1
+              },
+              {
+                "tag": "XTRA",
+                "name": "x transparent",
+                "minValue": 100,
+                "defaultValue": 800,
+                "maxValue": 800,
+                "isSelected": 0
+              },
+              {
+                "tag": "OPSZ",
+                "name": "Optical Size",
+                "minValue": 8,
+                "defaultValue": 16,
+                "maxValue": 16,
+                "isSelected": 0
+              },
+              {
+                "tag": "GRAD",
+                "name": "Grade",
+                "minValue": 0,
+                "defaultValue": 0,
+                "maxValue": 20,
+                "isSelected": 0
+              },
+              {
+                "tag": "YTRA",
+                "name": "y transparent",
+                "minValue": 750,
+                "defaultValue": 750,
+                "maxValue": 850,
+                "isSelected": 0
+              },
+              {
+                "tag": "CNTR",
+                "name": "Contrast",
+                "minValue": 0,
+                "defaultValue": 60,
+                "maxValue": 100,
+                "isSelected": 2
+              },
+              {
+                "tag": "YOPQ",
+                "name": "y opaque",
+                "minValue": 100,
+                "defaultValue": 100,
+                "maxValue": 800,
+                "isSelected": 0
+              },
+              {
+                "tag": "SERF",
+                "name": "Serif",
+                "minValue": 0,
+                "defaultValue": 30,
                 "maxValue": 30,
                 "isSelected": 0
               },

@@ -1197,7 +1197,7 @@ body {
   flex-direction: column;
 
   .section.section-font-size {
-    padding: 20px 12px;
+    padding: 2px 10px;
   }
 
   .section.section-preset-variations {
@@ -1229,7 +1229,7 @@ body {
     }
 
     .slider {
-      margin-bottom: 20px;
+      margin-bottom: 5px;
     }
   }
 
@@ -1465,7 +1465,7 @@ body {
 .slider-2d {
   position: relative;
   width: 216px;
-  height: 216px;
+  height: 116px;
   overflow: hidden;
   cursor: crosshair;
 
@@ -1663,7 +1663,7 @@ body {
   }
 
   input[type=range] {
-    margin-top: 10px;
+    margin-top: 5px;
     clear: both;
   }
 }

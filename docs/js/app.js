@@ -46,7 +46,7 @@ Vue.component('slider-2d', {
       },
       maxPos: {
         left: 200,
-        top: 200
+        top: 100
       },
       handleCenter: {
         x: 8,
@@ -1018,7 +1018,7 @@ var app = new Vue({
           },
           {
             "tag": "YTAS",
-            "name": "y transparent ascender",
+            "name": "y transparent asc",
             "minValue": 0,
             "defaultValue": 0,
             "maxValue": 50,
@@ -1034,7 +1034,7 @@ var app = new Vue({
           },
           {
             "tag": "YTDE",
-            "name": "y transparent descender",
+            "name": "y transparent dsc",
             "minValue": 0,
             "defaultValue": 0,
             "maxValue": 50,
@@ -1238,7 +1238,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTAS",
-                "name": "y transparent ascender",
+                "name": "y transparent asc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1254,7 +1254,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTDE",
-                "name": "y transparent descender",
+                "name": "y transparent dsc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1353,7 +1353,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTAS",
-                "name": "y transparent ascender",
+                "name": "y transparent asc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1369,7 +1369,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTDE",
-                "name": "y transparent descender",
+                "name": "y transparent dsc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1466,7 +1466,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTAS",
-                "name": "y transparent ascender",
+                "name": "y transparent asc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1482,7 +1482,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTDE",
-                "name": "y transparent descender",
+                "name": "y transparent dsc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1581,7 +1581,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTAS",
-                "name": "y transparent ascender",
+                "name": "y transparent asc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1597,7 +1597,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTDE",
-                "name": "y transparent descender",
+                "name": "y transparent dsc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1694,7 +1694,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTAS",
-                "name": "y transparent ascender",
+                "name": "y transparent asc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1710,7 +1710,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTDE",
-                "name": "y transparent descender",
+                "name": "y transparent dsc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1809,7 +1809,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTAS",
-                "name": "y transparent ascender",
+                "name": "y transparent asc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,
@@ -1825,7 +1825,7 @@ var app = new Vue({
               },
               {
                 "tag": "YTDE",
-                "name": "y transparent descender",
+                "name": "y transparent dsc",
                 "minValue": 0,
                 "defaultValue": 0,
                 "maxValue": 50,

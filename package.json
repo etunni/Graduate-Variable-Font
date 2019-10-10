@@ -1,0 +1,36 @@
+{
+  "name": "graduate-variable-font",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "description": "This information should be distributed along with the Graduate fonts and any derivative works.",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twardoch/Graduate-Variable-Font.git"
+  },
+  "keywords": [
+    "font",
+    "variable-font",
+    "ttf"
+  ],
+  "author": "Eduardo Tunni",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/twardoch/Graduate-Variable-Font/issues"
+  },
+  "homepage": "https://twardoch.github.io/Graduate-Variable-Font/"
+}

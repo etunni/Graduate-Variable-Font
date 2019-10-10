@@ -9,9 +9,14 @@ Graduate single font is available from Google Fonts at https://fonts.google.com/
 
 Source files are available from https://github.com/etunni/Graduate-Variable-Font
 
+The project website is at https://etunni.github.io/Graduate-Variable-Font/
+
 To contribute to the project, please visit https://github.com/etunni/Graduate-Variable-Font/issues
 
 ### History
+
+10 Oct 2019
+A website for the project was added at https://etunni.github.io/Graduate-Variable-Font/
 
 26 Mar 2019
 This build has 12 axes today, the latest added is “Largo Serif” that mean serif length.
